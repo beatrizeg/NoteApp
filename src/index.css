@@ -108,5 +108,20 @@ code {
   text-align: center;
 }
 
+.first-note {
+  border: none;
+  height: 100%;
+  min-width: 50px;
+  width: 20%;
+  padding: 8px;
+  font-size: 18px;;
+  background: #8F8FA8;
+  color: #F2EBD5;
+  text-align: center;
+}
 
+.no-notes > h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
 
