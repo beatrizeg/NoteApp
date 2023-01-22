@@ -65,13 +65,16 @@ code {
 .new-note {
   border: none;
   height: 80%;
+  min-width: 60px;
   width: 20%;
   background: #8F8FA8;
   color: #F2EBD5;
+  text-align: center;
 }
 
 .plus-icon {
   padding: 4px 2px;
+  text-align: center;
 }
 
 .sidebar--note {
@@ -93,13 +96,16 @@ code {
 .sidebar--trash {
   border: none;
   height: 100%;
+  min-width: 50px;
   width: 20%;
   background: #8F8FA8;
   color: #F2EBD5;
+  text-align: center;
 }
 
 .trash-icon {
   padding: 4px 2px;
+  text-align: center;
 }
 
 
